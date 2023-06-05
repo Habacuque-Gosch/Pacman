@@ -1,6 +1,6 @@
 <div align='center'>
-    <h1>Sistema de cadastro<h1>
-    <img src='./demo.gif' title='demo tela de login' width='400px' />
+    <h1>Pacman<h1>
+    <img src='./demo.gif' title='demo Pacman' width='400px' />
 </div>
 
 <h2>Bem vindo(ao) meu repositório</h2>
@@ -14,11 +14,5 @@
 
 <h2>Guia</h2>
 
-para rodar esse projeto em sua máquina, favor baixar o Banco de dados
+para rodar esse projeto em sua máquina, favor baixar o "pacman.py"
 
-
->Banco de dados: DataUser
-
-Logo após ter baixado, baixe a pasta de mídia do projeto
-
->Pasta: fotos
