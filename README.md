@@ -7,14 +7,14 @@
         
 >Status do projeto: Em Desenvolvimento
         
-##Descrição do projeto
+## Descrição do projeto
  <p align="justify">
 esse projeto trata-se de um jogo simples, porem divertido e é claro, estamos falando do classico pacman
 <div>
     
 ## Estados do game
 
-:heavy_check_mark: `Estado 1:` Rodando.
+:heavy_check_mark: `Estado 1:` Rodando
 
 :heavy_check_mark: `Estado 2:` Pause
 
