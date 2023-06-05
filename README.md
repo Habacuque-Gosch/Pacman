@@ -4,8 +4,11 @@
 </div>
 
 <h2>Bem vindo(ao) meu repositório</h2>
-
+        
 >Status do projeto: Em Desenvolvimento
+        
+ #Descrição do projeto
+        <p>,,,,,,,,,,,,,,,,,,,,,,</p>
 <div>
   <h2 style="text-align:left;">Redes Socias:</h2>
   <li style="text-align:center;"><a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">Linkedin</a></li>
