@@ -20,12 +20,17 @@ esse projeto trata-se de um jogo simples, porem divertido e é claro, estamos fa
 :heavy_check_mark: `Estado 4:` winner
         
 <video width="420" height="340" controls="controls">
-    <source src="./filme.mp4" type="video/mp4"></video>
+    <source src="./filme.mp4" type="video/mp4">
+</video>
   
 <div align='center'>
     <h1>Pacman<h1>
     <img src='./demo.gif' title='demo Pacman' width='400px' />
 </div>
+            
+## Ferramentas utilizadas
+
+<a href="https://www.python.org" target="_blank"> <img src="https://www.python.org/" alt="java" width="40" height="40"/> </a> 
     
 <h2 style="text-align:left;">Redes Socias:</h2>
   <li style="text-align:center;"><a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">Linkedin</a></li>
