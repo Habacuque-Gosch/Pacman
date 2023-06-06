@@ -30,7 +30,7 @@ esse projeto trata-se de um jogo simples, porem divertido e é claro, estamos fa
             
 ## Ferramentas utilizadas
 
-<a href="https://www.python.org" target="_blank"> <img src="https://www.gratispng.com/png-16e1pn/download.html" alt="Python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://logospng.org/wp-content/uploads/python.png" alt="Python" width="40" height="40"/> </a> 
     
 <h2 style="text-align:left;">Redes Socias:</h2>
   <li style="text-align:center;"><a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">Linkedin</a></li>
